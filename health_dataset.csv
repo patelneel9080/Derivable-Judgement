@@ -1,0 +1,9 @@
+record_id,age_group,age,weight,gender,region,smoking_status,exercise_frequency,bmi,blood_pressure,diabetes,hypertension,cholesterol_level,glucose_level,visit_date
+1,18-25,22,55,Male,North,Non-Smoker,Daily,21.5,110,False,False,180,90,2025-01-01
+2,26-35,30,70,Female,South,Smoker,Weekly,25.2,130,True,True,220,140,2025-01-05
+3,36-45,40,80,Male,East,Former Smoker,Rarely,27.8,140,True,True,240,160,2025-01-10
+4,46-60,50,85,Female,West,Non-Smoker,Weekly,29.1,150,True,True,260,180,2025-01-12
+5,60+,65,75,Male,North,Smoker,Never,30.2,160,True,True,280,200,2025-01-15
+6,18-25,23,60,Female,South,Non-Smoker,Daily,22.0,115,False,False,170,85,2025-01-18
+7,26-35,28,68,Male,East,Smoker,Rarely,26.5,135,True,True,210,150,2025-01-20
+8,36-45,38,78,Female,West,Former Smoker,Weekly,27.0,145,True,True,230,155,2025-01-22
